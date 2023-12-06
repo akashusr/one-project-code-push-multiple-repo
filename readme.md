@@ -56,7 +56,7 @@ git remote set-url --add --push origin <YOUR 2ND REPOSITORY HTTPS URL>
 git remote -v
 ```
 
-![image 1](https://i.ibb.co/z5BC7DC/2.png)
+![image 1](https://i.ibb.co/qgkrbrt/1.png)
 
 সুতরাং, নিচের কমান্ডের সাথে আবার প্রথম রিপোজিটরি URL যোগ করুন।
 
